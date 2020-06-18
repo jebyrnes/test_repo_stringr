@@ -2,8 +2,6 @@
 #' Regexp!
 #' ----------------------------
  
-#this is a thing that I want to say
-
 library(stringr)
 library(dplyr)
 library(ggplot2)
